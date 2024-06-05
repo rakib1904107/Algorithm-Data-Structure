@@ -1,0 +1,2 @@
+to debug the hashing code we have to set x=100
+and check whether the hash value generate correctly.
