@@ -45,8 +45,9 @@ int main() {
 		degree[y]++;
 	}
 
+    ///for circuit
 	for (int node = 0; node < n; node++) {
-		if (degree[node] % 2) {///for circuit
+		if (degree[node] % 2) {
 			cout << "IMPOSSIBLE";
 			return 0;
 		}
