@@ -1,3 +1,6 @@
+
+////Using formula - 1
+
 const int MOD = 1e9+7;
 const int MAX = 1e5+5;
 
